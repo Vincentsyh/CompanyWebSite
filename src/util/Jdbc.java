@@ -11,7 +11,7 @@ public class Jdbc {
         Class.forName("com.mysql.jdbc.Driver");
         String url = "jdbc:mysql://localhost:3306/laiyin?useSSL=false";
         String username = "root";
-        String password = "liangbin";
+        String password = "316000";
         conn = (Connection) DriverManager.getConnection(url, username, password);
         return conn;
     }
