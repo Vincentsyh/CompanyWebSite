@@ -6,7 +6,11 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 <html>
 <head>
+<<<<<<< HEAD
 <title>永康市莱尹进出口有限公司</title>
+=======
+<title>莱尹</title>
+>>>>>>> 6595b05ca8e75c2f0b9a1d08320a2e5bf42537ce
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/style.css">
 <script src="js/jquery-3.2.1.min.js"></script>
@@ -57,6 +61,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <div class="panel-heading"><span class="glyphicon glyphicon-cog"></span> Products</div>
 <div class="panel-body">
 <ul class="list-group">
+<<<<<<< HEAD
 <li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=1">CUT OFF MACHINE</a></li>
 <li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=2">MARBLE CUTTER</a></li>
 <li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=3">MITER SAW</a></li>
@@ -78,6 +83,29 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=19">ORBITAL SANDER</a></li>
 <li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=20">ROTARY LASER</a></li>
 <li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=21">ELECTRIC MIXER</a></li>
+=======
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=1">切割机</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=2">石材切割机</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=3">斜截锯 </a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=4">空心钻</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=5">取芯钻</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=6">电锤</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=7">手电钻</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=8">冲击钻</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=9">角向磨光机</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=10">角锉</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=11">电磨</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=12">机器底座</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=13">砂带磨光机 </a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=14">圆锯</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=15">电动鼓风机</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=16">电刨</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=17">修边机</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=18">细竖锯</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=19">旋转式砂光机</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=20">旋转干燥器</a></li>
+<li class="list-group-item"><a href="<%=request.getContextPath()%>/Servlet?id=21">电动搅拌机</a></li>
+>>>>>>> 6595b05ca8e75c2f0b9a1d08320a2e5bf42537ce
 </ul>
 </div>
 </div>
@@ -105,4 +133,5 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 </body>
 </html>
+
 
